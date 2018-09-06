@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131170109848",
+    "firebase_url": "https://hireadriver-e98f5.firebaseio.com",
+    "project_id": "hireadriver-e98f5",
+    "storage_bucket": "hireadriver-e98f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131170109848:android:885b626ec1aa4041",
+        "android_client_info": {
+          "package_name": "com.example.optimusprime.hireadriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131170109848-is4rnqf17d263aut7pri3gqthm316if6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.optimusprime.hireadriver",
+            "certificate_hash": "6c8714e2b860b76ec06f187eac5612b3247d60b5"
+          }
+        },
+        {
+          "client_id": "131170109848-br7qhumijprq0st5qjf3bt5f6b0ron7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD329DNa1bcIljr0lgq6W9zryRyFdxD2y4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131170109848-br7qhumijprq0st5qjf3bt5f6b0ron7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
